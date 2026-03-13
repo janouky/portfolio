@@ -1,0 +1,10 @@
+.tile {
+    break-inside: avoid;
+    margin-bottom: 10px;
+}
+
+.tile img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
