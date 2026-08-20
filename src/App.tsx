@@ -16,7 +16,8 @@ const images = [
   "images/tablefor2.jpg",
   "images/trouble-fete.png",
   "images/vernissage.jpg",
-  "images/villa-party.png"
+  "images/villa-party.png",
+  "images/are-you-listening.png"
 ]
 
 export default function App() {
